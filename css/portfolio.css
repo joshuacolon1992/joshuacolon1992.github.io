@@ -275,7 +275,7 @@ a:focus {
 
 #about{
     padding:50px 0 100px 0;
-     background: #18bc9c;
+     background: #CFB53B;
 }
 
 @media(min-width:767px) {
@@ -365,4 +365,9 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+
+.portfolio-section{
+  height:500px;
 }
